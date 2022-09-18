@@ -12,7 +12,19 @@ body, html {
     max-width: 100vw;
     max-height: 100vh;
 }
-
+.start {
+    display: flex;
+    border: 1px solid var(--mainColor);
+    text-decoration: none;
+    font-size: xx-large;
+    max-width: 35vw;
+    margin: 40vh auto;
+    justify-content: center;
+    align-items: center;
+    padding: 5vmin;
+    background-color: var(--mainColor);
+    color: var(--bgColor);
+}
 .container {
     margin: 2.5vh auto;
     width: 80vw;
