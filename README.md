@@ -1,3 +1,7 @@
-# JovemTegrano
+## JovemTegrano
 
-Faça o download do pacote e rode qualquer html dentro do projeto.
+# Acesse o projeto por [aqui](https://jovem-tegrano.vercel.app)
+
+## OU
+
+# Faça o download do pacote e abra qualquer aqrquivo .html dentro do projeto.
