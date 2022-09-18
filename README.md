@@ -1,7 +1,7 @@
-## JovemTegrano
+# JovemTegrano
 
-# Acesse o projeto por [aqui](https://jovem-tegrano.vercel.app)
+## Acesse o projeto por [aqui](https://jovem-tegrano.vercel.app)
 
-## OU
+# OU
 
-# Faça o download do pacote e abra qualquer aqrquivo .html dentro do projeto.
+## Faça o download do pacote e abra qualquer aqrquivo .html dentro do projeto.
