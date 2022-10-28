@@ -4,4 +4,4 @@
 
 # OU
 
-## Faça o download do pacote e abra qualquer aqrquivo .html dentro do projeto.
+## Faça o download do pacote e abra qualquer arquivo .html dentro do projeto.
